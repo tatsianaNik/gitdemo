@@ -1,3 +1,6 @@
 hello world!!!
-Привет мир
-Я учусь
+hello world
+I am studying
+add new lines
+
+GUI interface
