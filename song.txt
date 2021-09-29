@@ -4,7 +4,11 @@ I am studying
 add new lines
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 GUI interface
 
 I want to speak more confident.
 
+=======
+GUI interface
+>>>>>>> parent of ed0dfd2 (finish second part)
