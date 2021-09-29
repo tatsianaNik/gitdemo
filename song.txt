@@ -3,9 +3,8 @@ hello world
 I am studying
 add new lines
 
+<<<<<<< HEAD
 GUI interface
 
-I study English
 I want to speak more confident.
-I see a computer/
----------------
+
