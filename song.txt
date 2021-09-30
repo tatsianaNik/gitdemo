@@ -3,8 +3,5 @@ hello world
 I am studying
 add new lines
 
-<<<<<<< HEAD
-GUI interface
-
-I want to speak more confident.
+second couplet
 
